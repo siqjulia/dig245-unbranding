@@ -54,21 +54,27 @@ See Moodle.
 
 ## Inspiration
 
-- Critical Web Design Chapter 3 examples: [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) and [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
-- [First Things First Manifesto 1960](http://www.designishistory.com/1960/first-things-first/) and [2020](https://www.eyemagazine.com/feature/article/first-things-first-manifesto-2000)
-- Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
-- [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
-- [Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser
-- [unfitbits.com](unfitbits.com) (2015) by Tega Brain and Surya Mattu
-- [adnauseam.io](https://adnauseam.io/)
-- [add-art](https://add-art.org/) (2011) by Steve Lambert, et al
-- [termsandconditions.game](https://www.termsandconditions.game) 
+- 📚 "Critical Design" (chapter 3) in Critical Web Design and examples: [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) and [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
+- 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
+- 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
+- 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+- 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
+- [binky.rocks](https://binky.rocks);
+Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads); 
+[stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin;
+[Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser; 
+[unfitbits.com](unfitbits.com) (2015) by Tega Brain and Surya Mattu; 
+[adnauseam.io](https://adnauseam.io/); 
+[add-art](https://add-art.org/) (2011) by Steve Lambert, et al; 
+[termsandconditions.game](https://www.termsandconditions.game) 
 
 
 
 ## Design
 
 Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity. 
+
+1. At this point, it is better to use a simple layout than try to recreate an entire website. Try looking for designs in print that you can use. Or create a simple print ad to alter.
 
 
 ## Code
@@ -91,5 +97,5 @@ Follow the prompt in Chapter 3 of Critical Web Design to:
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
