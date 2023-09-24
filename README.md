@@ -52,21 +52,23 @@ See Moodle.
 [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-## Inspiration
+## Context
 
-- 📚 "Critical Design" (chapter 3) in Critical Web Design and examples: [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) and [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
-- 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
-- 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
-- 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-- 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
-- [binky.rocks](https://binky.rocks);
-Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads); 
-[stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin;
-[Safebook](https://bengrosser.com/projects/safebook/) (2018) by Ben Grosser; 
-[unfitbits.com](unfitbits.com) (2015) by Tega Brain and Surya Mattu; 
-[adnauseam.io](https://adnauseam.io/); 
-[add-art](https://add-art.org/) (2011) by Steve Lambert, et al; 
-[termsandconditions.game](https://www.termsandconditions.game) 
+- 📚 "Critical Design" (chapter 3) in Critical Web Design
+    - Chapter example(s): [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) | [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
+- Articles
+    - 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
+    - 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
+    - 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+    - 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
+- Works: 
+    - Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
+    - [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
+    - Dan Kurtz [Binky](https://binky.rocks) (2017); Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018); 
+    Tega Brain and Surya Mattu [unfitbits.com](unfitbits.com) (2015); 
+    [adnauseam.io](https://adnauseam.io/); 
+    Steve Lambert, et al [add-art](https://add-art.org/) (2011); 
+    [termsandconditions.game](https://www.termsandconditions.game) 
 
 
 
@@ -75,6 +77,7 @@ Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads);
 Follow the prompt in Chapter 3 of Critical Web Design to create a design that unbrands a corporate identity. 
 
 1. At this point, it is better to use a simple layout than try to recreate an entire website. Try looking for designs in print that you can use. Or create a simple print ad to alter.
+1. Consider incorporating what Paula Scher [calls "Serious Play"](https://www.ted.com/talks/paula_scher_great_design_is_serious_not_solemn) (2008) (21:35)
 
 
 ## Code
