@@ -61,14 +61,21 @@ See Moodle.
     - 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
     - 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
     - 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
-- Works: 
-    - Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
-    - [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
-    - Dan Kurtz [Binky](https://binky.rocks) (2017); Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018); 
-    Tega Brain and Surya Mattu [unfitbits.com](unfitbits.com) (2015); 
-    [adnauseam.io](https://adnauseam.io/); 
-    Steve Lambert, et al [add-art](https://add-art.org/) (2011); 
-    [termsandconditions.game](https://www.termsandconditions.game) 
+
+
+## Inspiration
+
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#anticorporate](https://omundy.github.io/critical-web-design-index#anticorporate), [#subvertisement](https://omundy.github.io/critical-web-design-index#subvertisement), or [#culture jam](https://omundy.github.io/critical-web-design-index#culture%20jam), including...
+
+- Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
+- [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
+- Dan Kurtz [Binky](https://binky.rocks) (2017)
+- Ian Bogost [Cow Clicker](http://www.cowclicker.com/) (2010)
+- Tega Brain and Surya Mattu [unfitbits.com](unfitbits.com) (2015)
+- [adnauseam.io](https://adnauseam.io/)
+- Steve Lambert, et al [add-art](https://add-art.org/) (2011) 
+- [termsandconditions.game](https://www.termsandconditions.game) 
+- MSCHF [onlybags.biz](https://onlybags.biz) (2022), [eattherichpopsicles.com](https:/eattherichpopsicles.com) (2022), [cdgrandprix.com](https:/cdgrandprix.com) (2022) 
 
 
 
@@ -102,3 +109,23 @@ Follow the prompt in Chapter 3 of Critical Web Design to:
 
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+
+
+
+<details>
+<summary>Past examples</summary>
+  
+- 2023
+    - [Jeremy](https://jeremykemp1.github.io/dig245-unbranding/)
+    - [Patrick](https://patrick-leary.github.io/dig245-unbranding/)
+    - [Tyler](https://tyleryandt18.github.io/dig245-unbranding/)
+    - [David](https://yodering.github.io/dig245-unbranding)
+    - [Isabel](https://isabelra26.github.io/dig245-unbranding/)
+    - [Richard](https://aequor29.github.io/dig245-unbranding/)
+    - [Riana](https://rianadoctor.github.io/dig245-unbranding/)
+    - [Will](https://wcox2.github.io/dig245-unbranding/)
+
+</details>
+
+
