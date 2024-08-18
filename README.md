@@ -47,36 +47,40 @@ See Moodle.
 
 
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-## Context
 
-- 📚 "Critical Design" (chapter 3) in Critical Web Design
-    - Chapter example(s): [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly) | [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/)
-- Articles
-    - 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
-    - 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
-    - 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-    - 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
+## Concept
+
+- 📚 "Critical Design" (chapter 3) in *Critical Web Design*
+- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-3-critical-design) like: 
+[Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/), 
+[Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly)
 
 
-## Inspiration
 
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#anticorporate](https://omundy.github.io/critical-web-design-index#anticorporate), [#subvertisement](https://omundy.github.io/critical-web-design-index#subvertisement), or [#culture jam](https://omundy.github.io/critical-web-design-index#culture%20jam), including...
+#### Articles
 
-- Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
-- [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
+- 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
+- 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
+- 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+- 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
+- [Graphic Design Theory #13 Leading Lines](https://www.youtube.com/watch?v=oQGBqwekKmg) (4:59)
+
+
+#### Inspiration
+
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#subvertisement](https://omundy.github.io/critical-web-design-index#subvertisement) or [#culture jam](https://omundy.github.io/critical-web-design-index#culture%20jam), including...
+
+- MSCHF [onlybags.biz](https://onlybags.biz) (2022), [eattherichpopsicles.com](https:/eattherichpopsicles.com) (2022), [cdgrandprix.com](https:/cdgrandprix.com) (2022) 
 - Dan Kurtz [Binky](https://binky.rocks) (2017)
 - Ian Bogost [Cow Clicker](http://www.cowclicker.com/) (2010)
 - Tega Brain and Surya Mattu [unfitbits.com](unfitbits.com) (2015)
 - [adnauseam.io](https://adnauseam.io/)
 - Steve Lambert, et al [add-art](https://add-art.org/) (2011) 
 - [termsandconditions.game](https://www.termsandconditions.game) 
-- MSCHF [onlybags.biz](https://onlybags.biz) (2022), [eattherichpopsicles.com](https:/eattherichpopsicles.com) (2022), [cdgrandprix.com](https:/cdgrandprix.com) (2022) 
-
+- Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
+- [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
 
 
 ## Design
@@ -91,6 +95,7 @@ Follow the prompt in Chapter 3 of Critical Web Design to create a design that un
 
 Follow the prompt in Chapter 3 of Critical Web Design to:
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Code your design in HTML/CSS/JS
 1. Use @font-face or an online font service to match the identity
 1. Use Javascript `mouseover` and/or CSS `:hover` to add interactivity to the page
