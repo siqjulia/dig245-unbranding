@@ -53,22 +53,13 @@ See Moodle.
 ## Concept
 
 - 📚 "Critical Design" (chapter 3) in *Critical Web Design*
-- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-3-critical-design) like: 
+
+
+### Inspiration
+
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-3-critical-design): 
 [Time](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/ikea-time/), 
 [Monopoly](https://omundy.github.io/critical-web-design-book/03-critical-design/examples/adobe-monopoly)
-
-
-
-#### Articles
-
-- 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
-- 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
-- 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-- 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
-- [Graphic Design Theory #13 Leading Lines](https://www.youtube.com/watch?v=oQGBqwekKmg) (4:59)
-
-
-#### Inspiration
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#subvertisement](https://omundy.github.io/critical-web-design-index#subvertisement) or [#culture jam](https://omundy.github.io/critical-web-design-index#culture%20jam), including...
 
@@ -81,6 +72,17 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 - [termsandconditions.game](https://www.termsandconditions.game) 
 - Adbusters collection of [spoof ads](https://www.adbusters.org/spoof-ads)
 - [stupidhackathon.com](https://stupidhackathon.com) (2015) organized by Sam Lavigne & Amelia Winger-Bearskin
+
+### Articles
+
+- 📚 Dunne & Raby “Design as Critique” (33-45) in Speculative Everything (2013)
+- 📚 Ian Bogost [The App That Does Nothing](https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/) (2017) 
+- 📚 Frank Chimero [Introduction](https://shapeofdesignbook.com/chapters/00-introduction/) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+- 📚 Aaron Draplin [logo design challenge](https://www.youtube.com/watch?v=gVUVUoXrPzM) (16:20) 
+- [Graphic Design Theory #13 Leading Lines](https://www.youtube.com/watch?v=oQGBqwekKmg) (4:59)
+
+
+
 
 
 ## Design
