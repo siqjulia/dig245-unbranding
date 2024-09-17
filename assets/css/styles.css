@@ -1,6 +1,6 @@
 /* css */
 
-* {
+div {
     position: absolute;
 }
 
@@ -11,6 +11,11 @@ body {
 }
 
 .moderation {
-    width: 600px;
-    height: 200px;
+    left: 400px;
+    bottom: 40px; 
+}
+
+.main{ 
+    opacity: 0; 
+    transition: opacity 1s;
 }
