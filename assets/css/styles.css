@@ -10,12 +10,7 @@ body {
     color: red;
 }
 
-.moderation {
-    left: 400px;
-    bottom: 40px; 
-}
-
-.main{ 
-    opacity: 0; 
-    transition: opacity 1s;
+.juliaspart {
+    left: 100px;
+    bottom: -75px;  
 }

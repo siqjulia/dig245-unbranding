@@ -1,15 +1,12 @@
 
 /* javascript */
 
-let moderation = document.querySelector(".moderation");
-let main = document.querySelector("main");
+function setNewImage()
+{ 
+  document.getElementById("modpo").src = "assets/img/insanetweets.png";
+}
 
-moderation.addEventListener("mouseover", function () {
-    this.src = "assets/img/insanetweets.png"
-    main.style.transition = '1s'
-    main.style.opacity = 1;
-}) 
-
-moderation.addEventListener("mouseout", function () {
-    this.src = "assets/img/xmoderationpolicy.png"
-    });
+function setOldImage()
+{
+    document.getElementById("modpo").src = "assets/img/xmoderationpolicy.png";
+}
