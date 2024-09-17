@@ -1,17 +1,16 @@
-
 /* css */
 
-div{ 
-    position: absolute; 
+* {
+    position: absolute;
 }
 
-html,body{
+html,
+body {
     background-color: black;
-    color:red;
+    color: red;
 }
 
-.moderation{ 
-   left: 450px; 
-   nav-down: 100px;
+.moderation {
+    width: 600px;
+    height: 200px;
 }
-
