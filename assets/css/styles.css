@@ -6,11 +6,26 @@ div {
 
 html,
 body {
+    height: 500vh; 
+    margin: 0;
+    padding: 0;
     background-color: black;
     color: red;
 }
 
 .juliaspart {
     left: 100px;
-    bottom: -75px;  
+    bottom: -570px;  
+}
+
+.khaispart {
+    display: flex;             
+    justify-content: center;   
+    align-items: center;
+     
+}
+#modpo1 {
+    
+    width: 50%; 
+    height: auto;
 }
