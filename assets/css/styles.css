@@ -6,7 +6,7 @@ div {
 
 html,
 body {
-    height: 500vh; 
+    height: 500vh;
     margin: 0;
     padding: 0;
     background-color: black;
@@ -15,17 +15,18 @@ body {
 
 .juliaspart {
     left: 100px;
-    bottom: -200px;  
+    bottom: -200px;
 }
 
 .khaispart {
-    display: flex;             
-    justify-content: center;   
+    display: flex;
+    justify-content: center;
     align-items: center;
-     
+
 }
+
 #modpo1 {
-    
-    width: 50%; 
+
+    width: 50%;
     height: auto;
 }
